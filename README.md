@@ -35,3 +35,46 @@ ensure that all operations were performed correctly.
 <img width="1918" height="116" alt="Screenshot from 2025-08-20 20-20-36" src="https://github.com/user-attachments/assets/437bab33-1511-4192-8153-754dc78aec58" />
 
 <img width="1150" height="215" alt="Screenshot from 2025-08-19 09-13-15" src="https://github.com/user-attachments/assets/40835c80-495b-4e45-88ce-3803095865b3" />
+
+
+**g) File Searching:**
+
+a. Search for all files with the extension ".txt" in the current directory and its subdirectories.
+b. Display lines containing a specific word in a file (provide a file name and the specific
+word to search). 
+
+<img width="1154" height="224" alt="Screenshot from 2025-08-19 09-27-08" src="https://github.com/user-attachments/assets/ffcb875a-c094-46f2-b7eb-4437ae885d38" />
+
+**h) System Information:**
+
+a. Display the current system date and time.
+**i) Networking:**
+
+a. Display the IP address of the system.
+b. Ping a remote server to check connectivity (provide a remote server address to ping).
+
+
+<img width="1920" height="1080" alt="Screenshot from 2025-08-20 19-40-36" src="https://github.com/user-attachments/assets/4da1d340-6896-476f-93f7-6ce24da1a4c2" />
+
+**j) File Compression:**
+
+a. Compress the "docs" directory into a zip file.
+b. Extract the contents of the zip file into a new directory. 
+
+<img width="1918" height="575" alt="Screenshot from 2025-08-20 19-45-39" src="https://github.com/user-attachments/assets/63d2689a-0470-4f18-9aee-05b51fd36920" />
+
+
+**k) File Editing:**
+a. Open the "file1.txt" file in a text editor and add some text to it.
+b. Replace a specific word in the "file1.txt" file with another word (provide the original
+word and the word to replace it with). 
+
+<img width="1918" height="335" alt="Screenshot from 2025-08-20 19-53-15" src="https://github.com/user-attachments/assets/17cd5323-8e2d-4f98-9487-aa5d3f550335" />
+
+
+<img width="1918" height="1078" alt="Screenshot from 2025-08-20 19-49-57" src="https://github.com/user-attachments/assets/2c6146f9-71a7-4a2d-afee-bbd963c2fa58" />
+
+
+
+
+
