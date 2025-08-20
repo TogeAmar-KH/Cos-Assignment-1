@@ -1,4 +1,4 @@
-<img width="1918" height="1003" alt="image" src="https://github.com/user-attachments/assets/f491ce04-deee-467c-b6f2-766a14aa439f" /># Cos-Assignment-1
+# Cos-Assignment-1
 
 ## These are the solutions for the Cos first Assignment
 
