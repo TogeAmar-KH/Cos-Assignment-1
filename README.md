@@ -1,4 +1,4 @@
-# Cos-Assignment-1
+<img width="1918" height="1003" alt="image" src="https://github.com/user-attachments/assets/f491ce04-deee-467c-b6f2-766a14aa439f" /># Cos-Assignment-1
 
 ## These are the solutions for the Cos first Assignment
 
@@ -76,6 +76,52 @@ word and the word to replace it with).
 <img width="1918" height="1078" alt="Screenshot from 2025-08-20 19-49-57" src="https://github.com/user-attachments/assets/2c6146f9-71a7-4a2d-afee-bbd963c2fa58" />
 
 
+##Problem 2: Read the instructions carefully and answer accordingly. If there is
+##any need to insert some data then do that as well. 
 
+**a. Suppose you have a file named "data.txt" containing important information. Display the
+first 10 lines of this file to quickly glance at its contents using a command. **
+
+**b. Now, to check the end of the file for any recent additions, display the last 5 lines of
+"data.txt" using another command. **
+
+>created a data.txt file and added lines in it to showcase use of head
+
+
+<img width="1918" height="1003" alt="Screenshot from 2025-08-20 21-16-17" src="https://github.com/user-attachments/assets/a9432a6d-3fb9-4c26-ab2e-c0e1ee5bf0f7" />
+
+
+
+**c. In a file named "numbers.txt," there are a series of numbers. Display the first 15 lines of
+this file to analyze the initial data set. **
+
+<img width="1918" height="1074" alt="Screenshot from 2025-08-20 21-20-07" src="https://github.com/user-attachments/assets/eb30c4b8-82fb-4a77-a8dc-ab4a916ebbd4" />
+
+**d. To focus on the last few numbers of the dataset, display the last 3 lines of "numbers.txt". **
+
+<img width="1918" height="110" alt="Screenshot from 2025-08-20 21-22-09" src="https://github.com/user-attachments/assets/fae186eb-eb95-4b5f-a019-365766178442" />
+
+
+**e. Imagine you have a file named "input.txt" with text content. Use a command to translate
+all lowercase letters to uppercase in "input.txt" and save the modified text in a new file
+named "output.txt." **
+
+>for this first i created the input.txt and then populated it with lowercase words and then used translate [tr] to change it to uppercase
+
+<img width="1918" height="354" alt="Screenshot from 2025-08-20 21-29-14" src="https://github.com/user-attachments/assets/fbe5ecbe-4709-463e-895c-7dd7f5efc2b4" />
+
+
+**f. In a file named "duplicate.txt," there are several lines of text, some of which are
+duplicates. Use a command to display only the unique lines from "duplicate.txt."**
+
+>now renamed input.txt to duplicate.txt and then added some duplicate line to it then printed all unique lines using uniq
+
+<img width="1918" height="948" alt="Screenshot from 2025-08-20 21-37-00" src="https://github.com/user-attachments/assets/c3bab431-b7e5-4a79-8266-385b1f26eb93" />
+
+**g. In a file named "fruit.txt," there is a list of fruits, but some fruits are repeated. Use a
+command to display each unique fruit along with the count of its occurrences in
+"fruit.txt." **
+
+<img width="1918" height="519" alt="Screenshot from 2025-08-20 21-42-35" src="https://github.com/user-attachments/assets/bbba5e28-1509-432b-b5ba-56a5a20920c6" />
 
 
