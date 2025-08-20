@@ -53,6 +53,7 @@ a. Display the current system date and time.
 a. Display the IP address of the system.
 b. Ping a remote server to check connectivity (provide a remote server address to ping).
 
+>** here i just pinged my home wifi**
 
 <img width="1920" height="1080" alt="Screenshot from 2025-08-20 19-40-36" src="https://github.com/user-attachments/assets/4da1d340-6896-476f-93f7-6ce24da1a4c2" />
 
